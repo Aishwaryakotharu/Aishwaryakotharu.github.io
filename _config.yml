@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "aishwarya kotharu"
-title_separator          : "-"
+# title                    : "Aishwarya kotharu"
+# title_separator          : "-"
 name                     : &name "Aishwarya Kotharu"
 description              : &description "personal description"
 url                      : "https://Aishwaryakotharu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "aishwaryakotharu"
-  avatar           : "#photo.jpg"
+  # name             : "Aishwarya Kotharu"
+  avatar           : "HeadShot-Aishwarya.jpeg"
   bio              : "CORNELL MBA"
   location         : "NEW YORK"
   employer         :
