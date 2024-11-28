@@ -9,17 +9,17 @@ main:
  # - title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
-    url: /portfolio/
+  - title: "MBA at Cornell Tech"
+    url: /cornell/
         
  # - title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Work Experience"
+    url: /workexperience/
     
 #  - title: "Guide"
  #   url: /markdown/
     
-  - title: "Research"
-    url: /research/
+  - title: "Contact"
+    url: /Contact/
