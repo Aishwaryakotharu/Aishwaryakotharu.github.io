@@ -41,8 +41,7 @@ Work experience
     * Customized the product for global customers, enhancing front-end, back-end, and database to boost customer satisfaction.
 Technology  Stack – HTML, CSS, JavaScript, ExtJS (Extended JavaScript), PHP, SQL, Oracle, Procedures, Functions, Packages, SOAP, Unit Testing (PHPUnit)
 
-Research Experience ([Volunteer](https://navoditamathur.github.io/research/))
-------
+Research Experience ([Volunteer])
 * Maize Yield Prediction:
     * Sep 2024 - Oct 2024
     * Employed machine learning to forecast maize yield based on climatic and agricultural variables such as temperature, rainfall, soil moisture, and historical crop yield data.
