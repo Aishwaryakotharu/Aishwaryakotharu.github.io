@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience (Non-profit)"
+title: "Contact details"
 permalink: /contact/
 author_profile: true
 redirect_from:
