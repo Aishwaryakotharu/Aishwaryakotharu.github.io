@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-# Flood Risk Assessment Using CHIRPS and Landsat Data in Sub-Basins
-
 ## Cloud Consultant III | Verizon
 
 Worked with the React and New-Relic Maas Product team, providing cloud solutions and support for product management.
