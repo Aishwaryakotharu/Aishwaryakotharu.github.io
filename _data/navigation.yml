@@ -6,15 +6,10 @@ main:
     
   - title: "MBA at Cornell Tech"
     url: /cornell/
-        
- # - title: "Blog Posts"
-  #  url: /year-archive/
     
   - title: "Work Experience"
     url: /workexperience/
     
-#  - title: "Guide"
- #   url: /markdown/
     
   - title: "Contact"
     url: /contact/

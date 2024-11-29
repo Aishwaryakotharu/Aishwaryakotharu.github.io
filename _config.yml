@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Aishwarya kotharu"
+title                    : "Aishwarya kotharu"
 # title_separator          : "-"
 name                     : &name "Aishwarya Kotharu"
 description              : &description "personal description"
