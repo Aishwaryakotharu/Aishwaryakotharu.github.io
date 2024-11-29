@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Aishwarya Kotharu"
+  name             : "CORNELL TECH MBA"
   avatar           : "HeadShot-Aishwarya.jpeg"
-  bio              : "CORNELL MBA"
+  # bio              : "CORNELL MBA"
   location         : "NEW YORK"
   employer         :
   email            : 
