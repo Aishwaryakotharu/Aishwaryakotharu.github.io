@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience (Non-profit)"
+title: "Career Journey "
 permalink: /workexperience/
 author_profile: true
 redirect_from:
