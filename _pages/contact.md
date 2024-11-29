@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research Experience (Non-profit)"
-permalink: /research/
+permalink: /contact/
 author_profile: true
 redirect_from:
-  - /research
+  - /contact
 ---
 
 {% include base_path %}
