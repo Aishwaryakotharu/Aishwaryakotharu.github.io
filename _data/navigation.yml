@@ -1,13 +1,8 @@
 # main links links
 main:
- # - title: "Research"
- #   url: /publications/
-
-#  - title: "Talks"
- #   url: /talks/    
-
- # - title: "Teaching"
-  #  url: /teaching/    
+ 
+  - title: "About Me"
+    url: /
     
   - title: "MBA at Cornell Tech"
     url: /cornell/
