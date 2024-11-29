@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# Flood Risk Assessment Using CHIRPS and Landsat Data in Sub-Basins
+# MBA AT CORNELL TECH,NYC
 
 ## 1. Introduction
 
