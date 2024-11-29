@@ -149,6 +149,7 @@
   @include breakpoint($large) {
     display: block;
     padding-left: 15px;
+    padding-top: 10px;
   }
 
   button {
