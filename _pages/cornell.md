@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience (Non-profit)"
+title: "Cornell"
 permalink: /cornell/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# MBA AT CORNELL TECH,NYC
+# My experience AT CORNELL TECH,NYC
 
 ## 1. Introduction
 
