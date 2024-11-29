@@ -4,7 +4,7 @@ title: "Research Experience (Non-profit)"
 permalink: /workexperience/
 author_profile: true
 redirect_from:
-  - /cornell
+  - /workexperience
 ---
 
 {% include base_path %}
