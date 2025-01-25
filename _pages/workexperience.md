@@ -13,6 +13,9 @@ redirect_from:
 
 Worked with the React and New-Relic Maas Product team, providing cloud solutions and support for product management.
 Managed key performance metrics and strategic objectives while focusing on business strategy, data analysis, and AI-driven product road mapping.
+<img src="\images\Verizon1.png" alt="My cool logo"/>
+<img src="Aishwaryakotharu.github.io\images\verizon2.png" alt="My cool logo"/>
+
 ## Software Engineer | Presidio
 
 Developed full-stack solutions in an agile environment, implementing AWS cloud services and using data-driven decision-making.
