@@ -13,9 +13,11 @@ redirect_from:
 
 Worked with the React and New-Relic Maas Product team, providing cloud solutions and support for product management.
 Managed key performance metrics and strategic objectives while focusing on business strategy, data analysis, and AI-driven product road mapping.
-</br>
-<img src="\images\Verizon1.png" alt="My cool logo" width="300px"/>
-<img src="\images\verizon2.png" alt="My cool logo"width="300px"/>
+
+
+<img src="\images\Verizon1.png" alt="My cool logo"  width="300px"/>
+
+<img src="\images\verizon2.png" alt="My cool logo2" width="300px"/>
 
 ## Software Engineer | Presidio
 
