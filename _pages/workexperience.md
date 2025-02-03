@@ -33,10 +33,6 @@ Supported documentation and program management for various client-facing project
 
 ## INTERNSHIPS:
 
-## Product Management Intern | The Verse
-
-Designed and developed wellness products for diverse customer segments, working from scratch to craft PRDs and product pitches for investors. Collaborated with cross-functional teams to define product vision, roadmaps, and success metrics. Conducted market research and competitive analysis to guide product strategy, ensuring user-centric and impactful solutions.
-
 ## Human Resources Intern | Swago
 
 Assisted in HR-related tasks, supporting recruitment, onboarding, and employee engagement efforts.
